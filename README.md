@@ -44,7 +44,7 @@ Dari sisi customer value, Loyal Customers merupakan segmen terbesar dan menyumba
 
 ## Dataset
 
-- **Sumber:** Olist E-Commerce Dataset (Kaggle)
+- **Sumber:** Olist E-Commerce Dataset (https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database)
 - **Periode data:** September 2016 – Agustus 2018
 - **Jumlah order:** 99.441 \| **Jumlah order delivered:** 96.478
 - **Tabel yang digunakan:** orders, order_items, order_reviews, order_payments, customers, products
